@@ -3,67 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/blog/categories/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/first/</loc>
+    <loc>/blog/tags/first/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/general/</loc>
+    <loc>/blog/categories/general/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/blog/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/post/</loc>
+    <loc>/blog/tags/post/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/blog/post/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/blog/tags/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/this-is-my-first-post/</loc>
+    <loc>/blog/post/this-is-my-first-post/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/search/placeholder/</loc>
+    <loc>/blog/search/placeholder/</loc>
   </url>
   
   <url>
-    <loc>/top/about/</loc>
+    <loc>/blog/top/about/</loc>
   </url>
   
   <url>
-    <loc>/top/books/</loc>
+    <loc>/blog/top/books/</loc>
   </url>
   
   <url>
-    <loc>/top/something/</loc>
+    <loc>/blog/top/something/</loc>
   </url>
   
   <url>
-    <loc>/search/</loc>
+    <loc>/blog/search/</loc>
   </url>
   
   <url>
-    <loc>/top/</loc>
+    <loc>/blog/top/</loc>
   </url>
   
 </urlset>

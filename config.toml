@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://kat-pel.github.io/blog/"
 title = "My blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
